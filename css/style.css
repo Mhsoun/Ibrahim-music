@@ -12,3 +12,7 @@ header{
 #news{
     background:lightgray;
 }
+
+.layout-social .layout-icon {
+    text-size: 2em;
+}
